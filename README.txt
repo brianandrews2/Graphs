@@ -109,6 +109,7 @@ PDF - method has_cycle() example 2
 ----------------------------------
 True
 
+
 # Directed Graph
 PDF - method add_vertex() / add_edge example 1
 ----------------------------------------------
